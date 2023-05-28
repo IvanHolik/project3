@@ -7,6 +7,7 @@ body{
 }
 .block{
 margin-bottom:110px;
+text-align: center;
 }
 .container {
     max-width:1170px;
@@ -14,7 +15,6 @@ margin-bottom:110px;
     margin: 0 auto;
 }
 .title {
-    text-align: center;
     text-transform: uppercase;
     margin-bottom: 40px;
     font-size: 36px;
@@ -30,7 +30,6 @@ margin-bottom:110px;
     margin-bottom: 40px;
 }
 .text1{
-    text-align: center;
     margin-bottom: 92px;
     color: #86878B;
     line-height: 21px;
@@ -42,7 +41,6 @@ margin-bottom:110px;
 
 .item{
     max-width:370px;
-   text-align: center;
    margin-right: 28px;
 }
 .item:last-child{
@@ -59,7 +57,6 @@ margin-bottom:110px;
     margin:0 auto 24px;
 }
 .heading{
-    text-align: center;
     margin-bottom:26px;
     font-weight: 700;;
     font-size: 24px;
@@ -68,6 +65,6 @@ margin-bottom:110px;
 }
 .text{
     font-size: 18px;
-    text-align: center;
+    line-height: 21px;
 }
 

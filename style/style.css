@@ -10,7 +10,7 @@ margin-bottom:110px;
 text-align: center;
 }
 .container {
-    max-width:1170px;
+    max-width:1202px;
     padding: 0 16px;
     margin: 0 auto;
 }
@@ -25,14 +25,13 @@ text-align: center;
     width: 170px;
     height: 0;
     border-top: 1px solid #EC7979;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+    margin: 0 auto 40px;
 }
 .text1{
     margin-bottom: 92px;
     color: #86878B;
     line-height: 21px;
+    font-size:18px;
 }
 .group {
     display: flex;

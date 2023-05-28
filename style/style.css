@@ -42,11 +42,11 @@ margin-bottom:110px;
 
 .item{
     max-width:370px;
-    width: 370px;
    text-align: center;
+   margin-right: 28px;
 }
-.item1,.item2 {
-    margin-right:28px;
+.item:last-child{
+    margin-right:0;
 }
 .image {
     display: flex;
